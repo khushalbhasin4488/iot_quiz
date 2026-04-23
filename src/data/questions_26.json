@@ -691,7 +691,7 @@
     {
         "question": "Which Python library is used to integrate the DHT sensor with Raspberry Pi?",
         "option1": "NumPy",
-        "option2": "Adafruit DHT",
+        "option2": "Adafruit_DHT",
         "option3": "Matplotlib",
         "option4": "Pandas",
         "correct_option": "Adafruit_DHT"
